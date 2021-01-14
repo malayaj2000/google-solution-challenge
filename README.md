@@ -2,7 +2,7 @@
 ### overview
     This app is made to remove corruption or at least spread awareness about corruption
     among children and adults.
-![video](https://github.com/malayaj2000/cisco_hack/blob/main/images/WhatsApp%20Video%202021-01-14%20at%2010.59.57%20PM.mp4)
+
 #### Problem
     1.Corruption destroys the legitimacy of the state.
     2.Corruption result in heavy  tax, which heavily burdens in particular commercial
