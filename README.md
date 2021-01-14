@@ -1,4 +1,8 @@
 # #No Corruption
+![alt text](https://github.com/malayaj2000/cisco_hack/blob/main/README_IMG/WhatsApp-Video-2021-01-14-at-120.gif)
+
+### Here is our [PRESENTATION](https://drive.google.com/file/d/1c7X-QOysR-dRvJyy8HMYpuMDGG0NfttQ/view?usp=sharing)
+
 ### overview
     This app is made to remove corruption or at least spread awareness about corruption
     among children and adults.
@@ -43,5 +47,5 @@
 4.[Suman pradhan](https://www.linkedin.com/in/suman-pradhan-19a5531a1)
 
 
-### here is our [ppts](https://drive.google.com/file/d/1c7X-QOysR-dRvJyy8HMYpuMDGG0NfttQ/view?usp=sharing)
+
 
