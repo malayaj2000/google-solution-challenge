@@ -156,4 +156,3 @@ class Results extends StatelessWidget {
     );
   }
 }
-

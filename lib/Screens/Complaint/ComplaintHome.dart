@@ -104,7 +104,7 @@ class FormScreenState extends State<FormScreen> {
         description = value;
       },
     );
- 
+
   }
 
   Widget _buildaddress() {
@@ -231,5 +231,3 @@ class FormScreenState extends State<FormScreen> {
     );
   }
 }
-
-

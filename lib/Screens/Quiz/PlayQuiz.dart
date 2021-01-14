@@ -268,4 +268,3 @@ class _QuizPlayTileState extends State<QuizPlayTile> {
     );
   }
 }
-
