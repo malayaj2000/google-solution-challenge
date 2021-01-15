@@ -35,7 +35,7 @@
     This Section contain various article related to the corruption which is happening around the  globe .
 ##### Security
     In this app the User have to open a account first so we completely 
-    take care of user security as mentioned in our Privacy Policy. 
+    take care of user security as all credentials and data ae managed in the firebase server. 
     
 ### Tech Stack
    1.python <img src="https://github.com/malayaj2000/cisco_hack/blob/main/images/python.jpg" width="20" />
