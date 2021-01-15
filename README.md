@@ -31,7 +31,7 @@
     Our App provide discussion forum where people can discuss the
     corruption related issues and various possible solution.
 ##### Take a Quiz
-    This is Quiz section for Kids where they can take Quiz on corruption which will 
+    This is Quiz section for students as well as working adults where they can take Quiz on corruption which will 
     help them understand the issue and awareness about the problems related to this. 
 ##### Analytics and Machine Learning 
     This contain various Statistical graphs on Corruption .
