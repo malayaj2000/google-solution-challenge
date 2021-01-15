@@ -8,9 +8,11 @@
 
 ### Here is our [ DEMO VIDEO FILE](https://drive.google.com/file/d/139DNpL9iAi3vEAvngrxC9qgEBvSGr0-a/view?usp=sharing)
 
-### PLEASE use these CREDENTIALS TO TEST THE APK FOR LOGIN:
+### PLEASE USE THESE CREDENTIALS TO TEST THE APK FOR LOGIN:
    1. USWENAME: anshumanmahapatra214@gmail.com </br>
    2.PASSWORD: Anshuman123
+
+### RECOMMENDED TO USE YOUR ANDROID PHONES TO RUN THE APK FOR BEST RESULTS
 
 ### overview
     This app is made to remove corruption or at least spread awareness about corruption
