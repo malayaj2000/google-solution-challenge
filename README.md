@@ -12,7 +12,9 @@
    1. USWENAME: anshumanmahapatra214@gmail.com </br>
    2.PASSWORD: Anshuman123
 
-### RECOMMENDED TO USE YOUR ANDROID PHONES TO RUN THE APK FOR BEST RESULTS
+### RECOMMENDED TO USE YOUR ANDROID PHONES TO RUN THE APK FOR BEST RESULTS..
+
+### WE ARE USING FIREBASE SERVER TO STORE USER DATA.
 
 ### overview
     This app is made to remove corruption or at least spread awareness about corruption
